@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies. Marathahalli,Bengaluru,Karnataka,India </h1>
-<h1 align="center"> New Batch will be start in August 1st week at 7.30 PM IST - Contact 9980923226 or devopstrainingblr@gmail.com</h1> 
-<h1 align="center"> Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Hi Myself Tarun Kumar Pal and i am cuurently working in DXC Technology,Bengaluru,Karnataka,India. I wish to work in DevOps tools in my future </h1>
+<h1 align="center"> My Skills are Linux,Ansible,Jenkins,Git,Github,Docker,Kubernetes and Terraform - Contact 9149133678 or tarunkumaratjob@gmail.com</h1> 
+<h1 align="center"> Please reach me out in case of any job openings in DevOps roles</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -32,23 +32,23 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/dxc_new.jpeg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		DXC Technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
-		+91-9980923226,+91-9900012028
-		devopstrainingblr@gmail.com
+		+91-914913378,+91-7906135517
+		tarunkumaratjob@gmail.com@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:tarunkumaratjob@gmail.com">Mail to Tarun Kumar Pal</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
+<p align=center>DXC Technologies - IT service provider .</p>
 <p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
 
 </body>
